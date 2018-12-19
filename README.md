@@ -4,3 +4,6 @@ Software for an Elevator that has three orders: goUp(), goDown() and request()
 - Behavior = Interface
 - Elevator = extends Building and implements Behavior
 - Person = need to be compile or modify to test that everything works
+
+To compile: javac Person.java
+To execute: java Person
